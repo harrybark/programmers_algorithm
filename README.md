@@ -1,7 +1,4 @@
 ## programmers algorithm
-
-<br>
-## Language : Java
-<br>
+<br/>## Language : Java
 <hr/>
-[x] : Programmers Algorithm level1 
+<br/>[x] : Programmers Algorithm level1 
