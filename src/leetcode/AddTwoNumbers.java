@@ -35,8 +35,6 @@ public class AddTwoNumbers {
             step.next = new ListNode(carry);
         }
 
-        ListNode res = result.next;
-
         return result.next;
     }
 }
